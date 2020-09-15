@@ -1,0 +1,48 @@
+#bigSquare{width: 1200px;margin: 0 auto;}
+#side1,#side2{width: 150px;height: 1210px;}
+#side1{float: left;}
+#side2{float: right;}
+#mainsquare{width: 900px;margin: 0 auto;float: left;}
+ #logo{float: left;margin-top: 2px;}
+ #header { height:80px;  margin-top:5px;background: azure;}
+#nav { height:50px;  margin-top:8px;background:bisque ;float: left;}
+#srearch{float: right;margin-top: 15px;} 
+#search * { vertical-align:middle;}   
+#nav { height:66px; margin-bottom:8px;}
+.navmain { height:36px; }
+ul{list-style: none;}
+.navmain ul li {float:left; font-size:14px;  margin:2px 2px 0 2px;margin-top: 0px;}
+.navmain ul li a { float:left; display:block; height:20px; line-height:26px; color:black; padding-left:10px;}
+.navmain ul li a span { display:block; padding-right:10px;}
+.navmain ul li a:hover { background:url(../img/dise.png)no-repeat;}
+.navmain ul li a #navcurrent { height:20px; line-height:20px;color:#6e6e6e;}
+.navmain ul li a #navcurrent span { height:20px;}
+#main{width: 800px;height: 600px;margin-top: 8px;}
+#footer{width: 800px;height: 200px;clear: both;}
+#longpic{width: 900px; height: 150px;margin-top: -13px;float: left;}
+#pict{width: 900px;height: 400px;background: #FFE4C4;}
+#pict a:hover{color: black;}
+#pict dl{float: left;margin: 5px 3px 0 3px;}
+#pict dt img{width: 130px;height: 150px;vertical-align: middle;margin-left: 10px;}
+#pict dd{width: 120px; margin: 5px 3px 0px 3px; height: 30px;text-align: center;}
+#middle1{width: 900px;height: 360px;margin-top: 8px;background: #FFE4C4;}
+#mainLeft{width: 200px;height: 360px;float: left;margin-left: 60px;margin-top: 5px;}
+#middleMiddle {width: 900px;height: 360px;}
+#middleMiddle dl{float: left;margin: 1px 1px 0px 1px;margin-top: 10px;}
+#middleMiddle dt img{width: 150px;height: 130px;vertical-align: middle;margin-left: 26px;}
+#middleMiddle dd{width: 150px; margin: 1px 1px 0px 1px; height: 30px;text-align: center;
+             overflow: hidden;}
+#middleMidddle dl dd a:hover{color: red;text-decoration: none;}
+#middleBottom{width: 880px;height: 250px;background: bisque;float: left;border: 1px solid red;}
+#middleBottom img {width: 270px;height: 100px;float: left;margin: 5px 5px 0 5px;}
+
+#footer{width: 900px;height: 110px;}
+#footer1{width: 900px; height: 30px;float: left;margin-top: 8px;}
+#footer1 ul li{
+			list-style: none;
+			float: left;margin-top: 5px;margin-left: 20px;
+			margin: 5px;
+		}
+#footer1 ul li a {text-decoration: none;}
+#footer1 ul li a:hover {color: orangered; }
+#footer4{float: left;margin-top: 8px;margin-left: 65px;height: 100px;}
